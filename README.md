@@ -5,10 +5,11 @@ This projects uses machine learning to predict customers behaviors based on some
 
 #Technologies Used
 - Python
-- -Pandas
+- Pandas
 - NumPy
 - Scikit-learn
 - Matplotlib
+- seaborn
 
 ## How to run the Projects 
 1. Clone the repository
